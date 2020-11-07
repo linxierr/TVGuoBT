@@ -1,55 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2020-11-06T10:15:50.577Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="iUQVuZ-l5Qf0BF0E4kDz" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-07T09:27:11.303Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="N0CuWs5bOO1_awjmjf_l" version="13.9.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1302" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2129" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
-          <mxGeometry y="20" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-5" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-7" edge="1">
-          <mxGeometry y="10" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="Lamp&lt;br&gt;plugged in?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="629" y="228" width="118" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="Plug in lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="779" y="248" width="138" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-8" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-11" edge="1">
-          <mxGeometry x="0.3333" y="20" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-9" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-12" edge="1">
-          <mxGeometry y="10" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="Bulb&lt;br&gt;burned out?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="629" y="348" width="118" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Repair Lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="619" y="488" width="138" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Replace Bulb" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="779" y="368" width="138" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Gi-niLugF8dRM-M3lC_h-0" value="&lt;font color=&quot;#009900&quot;&gt;准备:&lt;/font&gt;&lt;br&gt;两台手机&lt;br&gt;两个账号&lt;br&gt;手机1扫码进入目标游戏&lt;br&gt;手机2进入其他游戏（横竖屏一致)&lt;br&gt;adb连接上两台手机&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#009900&quot;&gt;查找到缓存的标准:&lt;/font&gt;&lt;br&gt;手机2的app成功登录手机1的账号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="20" width="270" height="190" as="geometry" />
+        <mxCell id="Gi-niLugF8dRM-M3lC_h-0" value="&lt;font color=&quot;#009900&quot;&gt;准备:&lt;/font&gt;&lt;br&gt;两台手机&lt;br&gt;两个账号&lt;br&gt;手机1扫码进入目标游戏&lt;br&gt;手机2进入其他游戏（横竖屏一致)&lt;br&gt;adb连接上两台手机&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#009900&quot;&gt;查找到缓存的标准:&lt;/font&gt;&lt;br&gt;手机2的app成功登录手机1的账号&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#009900&quot;&gt;背景&lt;/font&gt;&lt;br&gt;一个Android应用可操作的路径一般包括：&lt;br&gt;/data/data/包名&lt;br&gt;/sdcard/Android/data/包名&lt;br&gt;账号密码一般存储在data/data/包名目录下&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#009900&quot;&gt;验证方式：&lt;/font&gt;&lt;br&gt;1. 先将手机2内的文件备份&lt;br&gt;2. 将手机1的文件拷贝至手机2&lt;br&gt;3. 将拷贝过来的文件所有者和用户组更新成手机2的用户&lt;br&gt;4.拉起手机2的用户，判断是否找到缓存文件&lt;br&gt;5. 不管是否找到缓存文件，恢复手机2 的现场不影响下一次验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="10" width="410" height="380" as="geometry" />
         </mxCell>
         <mxCell id="Gi-niLugF8dRM-M3lC_h-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="219" y="130" as="targetPoint" />
             <mxPoint x="219" y="130" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Gi-niLugF8dRM-M3lC_h-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Gi-niLugF8dRM-M3lC_h-1" target="Gi-niLugF8dRM-M3lC_h-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Gi-niLugF8dRM-M3lC_h-1" value="操作手机1、2清理缓存后登录目标游戏" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="159" y="150" width="122" height="40" as="geometry" />
@@ -60,8 +28,86 @@
             <mxPoint x="440" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gi-niLugF8dRM-M3lC_h-7" value="文件夹下的文件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="228" width="122" height="40" as="geometry" />
+        <mxCell id="Gi-niLugF8dRM-M3lC_h-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Gi-niLugF8dRM-M3lC_h-7" target="Gi-niLugF8dRM-M3lC_h-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gi-niLugF8dRM-M3lC_h-7" value="用户选择/data或/sdcard作为起始定位路径" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="240" width="240" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Gi-niLugF8dRM-M3lC_h-11" value="文件夹内的文件是否包含缓存文件" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="162" y="320" width="116" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Gi-niLugF8dRM-M3lC_h-14" value="查找到了缓存文件夹，进一步定位内部文件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="454" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Gi-niLugF8dRM-M3lC_h-16" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Gi-niLugF8dRM-M3lC_h-14">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="280" y="360" as="sourcePoint" />
+            <mxPoint x="666" y="544" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="360" />
+              <mxPoint x="400" y="454" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gi-niLugF8dRM-M3lC_h-19" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Gi-niLugF8dRM-M3lC_h-11">
+          <mxGeometry x="0.3333" y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="220" y="467" as="sourcePoint" />
+            <mxPoint x="220" y="517" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gi-niLugF8dRM-M3lC_h-17" value="按照最近修改的时间排序子文件夹" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="155" y="651" width="130" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="Gi-niLugF8dRM-M3lC_h-24" value="是否包含子文件夹" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="161" y="517" width="118" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Gi-niLugF8dRM-M3lC_h-35" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="34" y="530" as="sourcePoint" />
+            <mxPoint x="161" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="34" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gi-niLugF8dRM-M3lC_h-39" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Gi-niLugF8dRM-M3lC_h-17">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="220" y="601" as="sourcePoint" />
+            <mxPoint x="757" y="655" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gi-niLugF8dRM-M3lC_h-40" value="按排序结果遍历子文件夹" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-36" y="528" width="138" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Gi-niLugF8dRM-M3lC_h-42" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Gi-niLugF8dRM-M3lC_h-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="667" as="sourcePoint" />
+            <mxPoint x="480" y="607" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="31" y="667" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gi-niLugF8dRM-M3lC_h-44" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Gi-niLugF8dRM-M3lC_h-24">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="330" y="560" as="sourcePoint" />
+            <mxPoint x="220" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="557" />
+              <mxPoint x="510" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gi-niLugF8dRM-M3lC_h-45" value="&lt;font color=&quot;#009900&quot;&gt;定位缓存文件夹&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="10" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gi-niLugF8dRM-M3lC_h-46" value="&lt;font color=&quot;#009900&quot;&gt;定位缓存文件夹里的缓存文件&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="750" y="460" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
