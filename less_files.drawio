@@ -1,1 +1,80 @@
-<mxfile host="app.diagrams.net" modified="2020-12-10T07:48:10.279Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" version="14.0.0" etag="dqAYtHBOoB92UNAYc2CP" type="github"><diagram id="L6khfQk3NfGzvPwaNn2H">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-10T08:08:05.127Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="06RPHeOfrSxJ6iXUzFuk" version="14.0.0" type="github">
+  <diagram id="L6khfQk3NfGzvPwaNn2H" name="Page-1">
+    <mxGraphModel dx="1302" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pH1X1sMI1ev9ekU_hUhR-1" value="一组存档文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pH1X1sMI1ev9ekU_hUhR-2" value="依次从文件组中去除一个文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pH1X1sMI1ev9ekU_hUhR-20" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pH1X1sMI1ev9ekU_hUhR-3" target="pH1X1sMI1ev9ekU_hUhR-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pH1X1sMI1ev9ekU_hUhR-3" value="其余的文件是否能备份账号" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="150" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pH1X1sMI1ev9ekU_hUhR-6" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pH1X1sMI1ev9ekU_hUhR-1" target="pH1X1sMI1ev9ekU_hUhR-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="320" as="sourcePoint" />
+            <mxPoint x="440" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pH1X1sMI1ev9ekU_hUhR-7" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pH1X1sMI1ev9ekU_hUhR-2" target="pH1X1sMI1ev9ekU_hUhR-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="190" as="sourcePoint" />
+            <mxPoint x="200" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pH1X1sMI1ev9ekU_hUhR-8" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="149" as="sourcePoint" />
+            <mxPoint x="482" y="119" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="149" />
+              <mxPoint x="370" y="139" />
+              <mxPoint x="370" y="119" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pH1X1sMI1ev9ekU_hUhR-9" value="Y" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="pH1X1sMI1ev9ekU_hUhR-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pH1X1sMI1ev9ekU_hUhR-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pH1X1sMI1ev9ekU_hUhR-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="770" y="120" />
+              <mxPoint x="770" y="300" />
+              <mxPoint x="140" y="300" />
+              <mxPoint x="140" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pH1X1sMI1ev9ekU_hUhR-10" value="文件不是存档文件，从文件组中去除该文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="90" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pH1X1sMI1ev9ekU_hUhR-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pH1X1sMI1ev9ekU_hUhR-19" target="pH1X1sMI1ev9ekU_hUhR-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pH1X1sMI1ev9ekU_hUhR-19" value="文件是存档文件" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="230" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pH1X1sMI1ev9ekU_hUhR-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pH1X1sMI1ev9ekU_hUhR-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pH1X1sMI1ev9ekU_hUhR-22" value="缓存该文件" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="230" width="90" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
